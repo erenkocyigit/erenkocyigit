@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenkocyigit&label=Profile%20views&color=0e75b6&style=flat" alt="erenkocyigit" /> </p>
 
-- 🌱 I’m currently learning **Cypress, JavaScript, TypeScript**
-
 - 💬 Ask me about **Java/Python/C#, Selenium/Playwright, Cucumber/Behave, Oracle SQL Developer, Postman**
 
 - 📫 How to reach me **m.erenkocyigit@gmail.com**

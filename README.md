@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cypress, JavaScript, TypeScript**
 
-- 💬 Ask me about **Java, Selenium, Cucumber, Oracle SQL Developer, Postman**
+- 💬 Ask me about **Java/Python/C#, Selenium/Playwright, Cucumber/Behave, Oracle SQL Developer, Postman**
 
 - 📫 How to reach me **m.erenkocyigit@gmail.com**
 
